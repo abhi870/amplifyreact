@@ -26,7 +26,7 @@ appClient.query(
 function App() {
   return (
     <div className="App">
-     <h2>Hello Abhishek!!!</h2>
+     <h2>Hello Paithane!!!</h2>
     </div>
   );
 }
